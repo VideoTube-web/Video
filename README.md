@@ -67,4 +67,4 @@ When a match is found, the rights holder can:
 ## 💻 YouTube Video Media
 can programmatically interact with YouTube using its a specific video.
 
-```https://github.com/VideoTube-web/Videos/issues/1```
+`https://github.com/VideoTube-web/Videos/issues/`
